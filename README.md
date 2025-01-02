@@ -39,7 +39,11 @@ Navegue para Missões, Relatórios ou Configurações:
 ### Tela de Missões
 Gerencie suas tarefas e acompanhe o progresso:
 
-![Tela de Missões](/imagens/tela_missoes.png)
+![tela_missoes](https://github.com/user-attachments/assets/37003290-f665-4653-af14-3563dff62e43)
+
+<div aligh = "center">
+<img src = "https://github.com/user-attachments/assets/37003290-f665-4653-af14-3563dff62e43" width "700px" />
+</div>
 
 ### Tela de Relatórios
 Adicione, visualize e organize relatórios:
