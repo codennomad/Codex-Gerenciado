@@ -29,7 +29,7 @@ Este é um aplicativo interativo desenvolvido em Python com a biblioteca `Tkinte
 ### Tela Inicial
 Navegue para Missões, Relatórios ou Configurações:
 
-![tela inicial](https://github.com/codennomad/Codex-Gerenciado/issues/1#issue-2766670572)
+![tela_inicial](https://github.com/user-attachments/assets/0f86b99a-9887-47b7-bb0b-103e22b2ce33)
 
 
 ### Tela de Missões
@@ -41,13 +41,13 @@ Gerencie suas tarefas e acompanhe o progresso:
 ### Tela de Relatórios
 Adicione, visualize e organize relatórios:
 
-![Tela de Relatórios](/imagens/tela_relatorios.png)
-![Tela de detalhes dentro de Relatórios](/imagens/detalhes.png)
+![tela_relatorios](https://github.com/user-attachments/assets/2ed3a901-95ae-4f55-bdec-a6f88210fb47)
+![detalhes_relatorios](https://github.com/user-attachments/assets/9a6b0372-c2a5-4eab-91f5-6f14583e3e26)
 
 ### Tela de Configurações
 Gerencie o sistema de pontos e ajustes gerais:
 
-![Tela de Configurações](/imagens/tela_config.png)
+![tela_config](https://github.com/user-attachments/assets/2c638ea6-fa1f-4249-b571-58c2df86eaf3)
 
 
 ## 🛠️🚀 Como Executar
