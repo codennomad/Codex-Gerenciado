@@ -29,7 +29,7 @@ Este é um aplicativo interativo desenvolvido em Python com a biblioteca `Tkinte
 ### Tela Inicial
 Navegue para Missões, Relatórios ou Configurações:
 
-![tela_inicial](https://github.com/user-attachments/assets/0f86b99a-9887-47b7-bb0b-103e22b2ce33)
+
 
 <div aligh = "center">
 <img src = "https://github.com/codennomad/Codex-Gerenciado/issues/1#issue-2766670572" width "700px" />
@@ -41,9 +41,6 @@ Gerencie suas tarefas e acompanhe o progresso:
 
 ![tela_missoes](https://github.com/user-attachments/assets/37003290-f665-4653-af14-3563dff62e43)
 
-<div aligh = "center">
-<img src = "https://github.com/user-attachments/assets/37003290-f665-4653-af14-3563dff62e43" width "700px" />
-</div>
 
 ### Tela de Relatórios
 Adicione, visualize e organize relatórios:
