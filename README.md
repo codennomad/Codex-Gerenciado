@@ -29,11 +29,7 @@ Este é um aplicativo interativo desenvolvido em Python com a biblioteca `Tkinte
 ### Tela Inicial
 Navegue para Missões, Relatórios ou Configurações:
 
-
-
-<div aligh = "center">
-<img src = "https://github.com/codennomad/Codex-Gerenciado/issues/1#issue-2766670572" width "700px" />
-</div>
+![tela inicial](https://github.com/codennomad/Codex-Gerenciado/issues/1#issue-2766670572)
 
 
 ### Tela de Missões
