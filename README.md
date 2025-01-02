@@ -29,23 +29,23 @@ Este é um aplicativo interativo desenvolvido em Python com a biblioteca `Tkinte
 ### Tela Inicial
 Navegue para Missões, Relatórios ou Configurações:
 
-![Tela Inicial](imagens/tela_inicial.png)
+![Tela Inicial](/imagens/tela_inicial.png)
 
 ### Tela de Missões
 Gerencie suas tarefas e acompanhe o progresso:
 
-![Tela de Missões](imagens/tela_missoes.png)
+![Tela de Missões](/imagens/tela_missoes.png)
 
 ### Tela de Relatórios
 Adicione, visualize e organize relatórios:
 
-![Tela de Relatórios](imagens/tela_relatorios.png)
-![Tela de detalhes dentro de Relatórios](imagens/detalhes.png)
+![Tela de Relatórios](/imagens/tela_relatorios.png)
+![Tela de detalhes dentro de Relatórios](/imagens/detalhes.png)
 
 ### Tela de Configurações
 Gerencie o sistema de pontos e ajustes gerais:
 
-![Tela de Configurações](imagens/tela_config.png)
+![Tela de Configurações](/imagens/tela_config.png)
 
 
 ## 🛠️🚀 Como Executar
