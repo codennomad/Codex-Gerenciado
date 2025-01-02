@@ -1,0 +1,22 @@
+#Ignorar caches do Python
+*.pyc
+*.pyo
+__pycache__/
+.mypy_cache
+
+#Ignorar caches do ambiente virtual
+venv/
+env/
+
+#Ignorar configuracoes do VS code
+.vscode/
+
+#Ignorar arquivos de log
+*.log
+
+#Ignorar arquivos gerados
+*.sqlite3
+*.db
+
+teste5.py
+
